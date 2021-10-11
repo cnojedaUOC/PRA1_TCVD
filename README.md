@@ -5,7 +5,7 @@ En esta práctica se elabora un caso práctico orientado a aprender a identifica
 
 ### Descripción
 
-El objetivo de esta actividad será la creación de un dataset a partir de los datos contenidos en un sitio web que será extraídos mediante la técnica de _Web Scraping_ y el lenguaje de programación Python.
+El objetivo de esta actividad será la creación de un dataset a partir de los datos contenidos en un sitio web que será extraídos mediante la técnica de _Web Scraping_ y el lenguaje de programación _Python_.
 
 ### Miembros del equipo
 
