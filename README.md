@@ -17,7 +17,7 @@ Carmen Nieves Ojeda Guerra
 Los archivos se han distribuidos en las siguientes carpetas:
 
 - src:   
-    * Extraccion_datos_ign.py (archivo con las funciones para la extracción de datos desde la fuente)
+    * extraccion_datos_ign.py (archivo con las funciones para la extracción de datos desde la fuente)
     * main.py (archivo con la función principal que llama a la función de la extracción de datos)
 - csv: 
     * dataset_anio.csv (información de los terremotos en España desde principios de año hasta mediados de octubre de 2021). El DOI de Zenodo del dataset es
