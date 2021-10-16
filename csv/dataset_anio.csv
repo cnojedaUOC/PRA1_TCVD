@@ -1,4 +1,4 @@
-Evento,Fecha,Hora UTC,Hora Local(*),Latitud,Longitud,Profundidad(km),Magnitud,Tipo Mag.,Int. max.,Localización
+Evento,Fecha,Hora UTC,Hora Local(*),Latitud,Longitud,Profundidad(km),Magnitud,Tipo Mag.,Int. max.,Localizacion
 es2021ugtxs,2021-10-16,1900-01-01 06:07:00,1900-01-01 07:07:00,28.5659,-17.8296,37.0,4.5,mbLg,IV-V,SW VILLA DE MAZO.ILP
 es2021ugrcy,2021-10-16,1900-01-01 04:41:53,1900-01-01 05:41:53,28.5623,-17.8283,37.0,4.6,mbLg,III-IV,SW VILLA DE MAZO.ILP
 es2021ufzzy,2021-10-15,1900-01-01 20:03:01,1900-01-01 21:03:01,28.5552,-17.8384,13.0,4.0,mbLg,III-IV,NE FUENCALIENTE DE LA PALMA.IL
