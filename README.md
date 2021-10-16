@@ -22,7 +22,7 @@ Los archivos se han distribuidos en las siguientes carpetas:
 - csv: 
     * dataset_anio.csv (información de los terremotos en España desde principios de año hasta mediados de octubre de 2021). El DOI de Zenodo del dataset es
 - pdf: 
-    * memoria del trabajo 
+    * Memoria_PRA-1.pdf (memoria del trabajo con los apartados solicitados en la especificación) 
 
 ### Recursos
 
