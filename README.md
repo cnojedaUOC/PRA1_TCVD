@@ -22,6 +22,6 @@ Los archivos se han distribuidos en las siguientes carpetas:
 
 ### Recursos
 
-[1] L. Subirats, M. Calvo, “Web Scraping”, Editorial UOC, 2019.
-[2] R. Lawson, “Web Scraping with Python”, Packt Publishing Ltd. Chapter 2. Scraping the Data, 2015.
+[1] L. Subirats, M. Calvo, “Web Scraping”, Editorial UOC, 2019.  
+[2] R. Lawson, “Web Scraping with Python”, Packt Publishing Ltd. Chapter 2. Scraping the Data, 2015.  
 [3] Alber, “Web scraping con requests y BeautifuSoup en Python”, 2020. [En línea]. Disponible en: https://cosasdedevs.com/posts/web-scraping-con-requests-y-beautifulsoup-en-python/. [Accedido: 13-oct-2021]
