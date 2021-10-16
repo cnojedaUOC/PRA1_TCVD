@@ -36,6 +36,7 @@ def extraerDatos(respuesta):
             sismos.append(cols) 
 
     sismos_df = pandas.DataFrame(sismos,columns=nombre_columnas)
+    sismos_df.drop('Más Info', axis=1, inplace=True)
     convertirDatos(sismos_df)
     return sismos_df
     

@@ -4,7 +4,7 @@ import extraccion_datos_ign as edi
 def main():
     respuesta = edi.descargaPaginaWeb('https://www.ign.es/web/ign/portal/ultimos-terremotos/-/ultimos-terremotos/getAnio')
     lista = edi.extraerDatos(respuesta)
-    edi.crearArchivoCSVDesdeLista(lista, 'dataset_anio.csv')
+    edi.crearArchivoCSVDesdeLista(lista, '../csv/dataset_anio.csv')
 
 if __name__ == '__main__':
 	main()
