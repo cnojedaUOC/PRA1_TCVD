@@ -16,12 +16,13 @@ Carmen Nieves Ojeda Guerra
 
 Los archivos se han distribuidos en las siguientes carpetas:
 
-- src: archivos fuente    
-    * Extraccion_datos_ign.ipynb (archivo con el código fuente para Jupyter Notebook)
+- src:   
     * Extraccion_datos_ign.py (archivo con las funciones para la extracción de datos desde la fuente)
     * main.py (archivo con la función principal que llama a la función de la extracción de datos)
-- csv: dataset (información de los terremotos en España desde principios de año hasta mediados de octubre de 2021)
-- pdf: memoria del trabajo 
+- csv: 
+    * dataset_anio.csv (información de los terremotos en España desde principios de año hasta mediados de octubre de 2021). El DOI de Zenodo del dataset es
+- pdf: 
+    * memoria del trabajo 
 
 ### Recursos
 
