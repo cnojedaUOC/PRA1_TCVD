@@ -1,3 +1,5 @@
 
 .ipynb_checkpoints/extraccion_datos_ign-checkpoint.ipynb
 *.pyc
+selenium/src/geckodriver.exe
+selenium/src/.ipynb_checkpoints/WebScrapping-checkpoint.ipynb

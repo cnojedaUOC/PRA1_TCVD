@@ -592,3 +592,1204 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1635589637561	geckodriver	INFO	Listening on 127.0.0.1:62312
+1635589640683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62313" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileCEASsd"
+1635589701285	geckodriver	INFO	Listening on 127.0.0.1:62409
+1635589704385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62410" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilequaGq2"
+1635589704750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilequaGq2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62410/devtools/browser/f47e2bcf-5c1a-4fb7-b0f5-bfe0987872a6
+1635589706782	Marionette	INFO	Listening on port 62415
+1635589707074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635589729008	Marionette	INFO	Stopped listening on port 62415
+1635589729141	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635670329700	geckodriver	INFO	Listening on 127.0.0.1:64086
+1635670332979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64087" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilezCuPh7"
+1635670334164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilezCuPh7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64087/devtools/browser/f04b4205-cbfe-4c3f-a1f4-6c835c154bbc
+1635670336905	Marionette	INFO	Listening on port 64092
+1635670337248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635671084969	Marionette	INFO	Stopped listening on port 64092
+1635671085007	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.ge1635671085140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile8azbsS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64303/devtools/browser/815f0004-e972-4f7f-aaaf-a16a586f5f04
+1635671087286	Marionette	INFO	Listening on port 64310
+1635671087379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635671101964	Marionette	INFO	Stopped listening on port 64310
+1635671102185	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635671239028	geckodriver	INFO	Listening on 127.0.0.1:64665
+1635671242093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64666" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilev8TS6G"
+1635671242504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilev8TS6G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64666/devtools/browser/b0ba5118-711d-49d3-87de-8f4ccd622f90
+1635671244574	Marionette	INFO	Listening on port 64677
+1635671244788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635671389833	Marionette	INFO	Stopped listening on port 64677
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635671389867	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635671407920	geckodriver	INFO	Listening on 127.0.0.1:64758
+1635671411028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64759" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile2WPqm2"
+1635671411438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile2WPqm2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64759/devtools/browser/cfaf9fa4-4f74-4e74-b622-971b7875e0c3
+1635671413714	Marionette	INFO	Listening on port 64764
+1635671413744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+1635671417573	Marionette	INFO	Stopped listening on port 64764
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635671417818	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635671421113	geckodriver	INFO	Listening on 127.0.0.1:64822
+1635671424181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64823" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileWhDZel"
+1635671424551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileWhDZel\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64823/devtools/browser/08729047-1268-4e99-a380-8426f43a515c
+1635671426771	Marionette	INFO	Listening on port 64830
+1635671426873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635671566025	Marionette	INFO	Stopped listening on port 64830
+1635671566045	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+dd82ec9d73
+1635671531606	Marionette	INFO	Listening on port 64915
+1635671532031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635671566019	Marionette	INFO	Stopped listening on port 64915
+1635671566253	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635671574567	geckodriver	INFO	Listening on 127.0.0.1:64977
+1635671577672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64978" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileuXfprh"
+1635671578141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileuXfprh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64978/devtools/browser/ac51b7c2-0311-4b29-91cd-94645849416d
+1635671580337	Marionette	INFO	Listening on port 64985
+1635671580467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is1635671623399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65046" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileP998d0"
+1635671623826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileP998d0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65046/devtools/browser/e34413c0-beb1-4e15-8ded-65eff2e47a78
+1635671626071	Marionette	INFO	Listening on port 65052
+1635671626160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is1635671818220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65126" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileXJRizv"
+1635671818661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileXJRizv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65126/devtools/browser/d1bc9c4c-6213-4c49-ac42-5e07b2e83489
+1635671820806	Marionette	INFO	Listening on port 65132
+1635671820958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635672015089	Marionette	INFO	Stopped listening on port 65132
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635672015127	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635671952461	Marionette	INFO	Stopped listening on port 65218
+1635671952607	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635672010754	geckodriver	INFO	Listening on 127.0.0.1:65287
+1635672013845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65288" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileL97XRa"
+1635672014197	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileL97XRa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65288/devtools/browser/d51f6293-35e7-462e-a3a3-7d472b86d20a
+1635672016461	Marionette	INFO	Listening on port 65294
+1635672016544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is1635672199116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-1635672200598	Marionette	INFO	Stopped listening on port 65294
+1635672200632	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile4XWaUR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65367/devtools/browser/c703fe2c-b09e-42bb-913b-f1681532b6dd
+1635672202638	Marionette	INFO	Listening on port 65372
+1635672202834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is1635672235311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65437" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofiletLGVD0"
+1635672235689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofiletLGVD0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65437/devtools/browser/1165aba4-1580-4c0c-ad15-84cad8ae1cff
+1635672237779	Marionette	INFO	Listening on port 65443
+1635672238014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635672282302	Marionette	INFO	Stopped listening on port 65443
+1635672282554	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargeDevTools listening on ws://localhost:65513/devtools/browser/1ee6e656-69ee-4bc0-9533-793c6f06fe1c
+1635672282943	Marionette	INFO	Listening on port 65522
+1635672283322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635672399054	Marionette	INFO	Stopped listening on port 65522
+1635672399330	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+bbcfe953bc
+1635672348645	Marionette	INFO	Listening on port 49210
+1635672349058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635672399834	Marionette	INFO	Stopped listening on port 49210
+1635672400044	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635673088856	geckodriver	INFO	Listening on 127.0.0.1:49397
+1635673091963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49398" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileeVwvBy"
+1635673092327	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileeVwvBy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49398/devtools/browser/dae4b5ce-4c27-46ac-b82f-7bbb197a895e
+1635673094386	Marionette	INFO	Listening on port 49405
+1635673094684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+1635673172489	Marionette	INFO	Stopped listening on port 49405
+1635673172803	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635673179927	geckodriver	INFO	Listening on 127.0.0.1:49521
+1635673183015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49522" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile3Z5YZn"
+1635673183398	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile3Z5YZn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49522/devtools/browser/addff5be-3120-4a36-b2f9-bd13dd7e658a
+1635673185757	Marionette	INFO	Listening on port 49529
+1635673186234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635673331255	Marionette	INFO	Stopped listening on port 49529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635673331291	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635673331311	Marionette	INFO	Stopped listening on port 49650
+1635673331561	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635673334629	geckodriver	INFO	Listening on 127.0.0.1:49770
+1635673337830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49771" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileq1NMg8"
+1635673338212	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileq1NMg8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49771/devtools/browser/c56da597-6a51-467c-b457-473195f310c5
+1635673340508	Marionette	INFO	Listening on port 49778
+1635673341046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635673429304	Marionette	INFO	Stopped listening on port 49778
+1635673429615	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635673432258	geckodriver	INFO	Listening on 127.0.0.1:49892
+1635673435362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49893" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilejPzIqp"
+1635673435732	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilejPzIqp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49893/devtools/browser/b9040151-d0fd-4e2a-8462-9f42ecd097cb
+1635673437821	Marionette	INFO	Listening on port 49901
+1635673438065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635673644480	Marionette	INFO	Stopped listening on port 49901
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635673644511	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635673644638	Marionette	INFO	Stopped listening on port 50018
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635673644841	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635673644687	Marionette	INFO	Stopped listening on port 50138
+1635673644794	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635673647245	geckodriver	INFO	Listening on 127.0.0.1:50250
+1635673650365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50251" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileYPPk2U"
+1635673650763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileYPPk2U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50251/devtools/browser/cd6f34eb-bfd1-453b-a149-f192e1b79910
+1635673652811	Marionette	INFO	Listening on port 50258
+1635673653086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635673733154	Marionette	INFO	Stopped listening on port 50258
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635673733441	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635673733798	geckodriver	INFO	Listening on 127.0.0.1:50374
+1635673736884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50375" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilebvencd"
+1635673737267	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilebvencd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50375/devtools/browser/d815e1ba-dc28-49fd-829f-d6995e88ba3a
+1635673739356	Marionette	INFO	Listening on port 50382
+1635673739593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635673992542	Marionette	INFO	Stopped listening on port 50382
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635673992586	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635673992473	Marionette	INFO	Stopped listening on port 50505
+1635673992508	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+6a91a4156c
+1635673960734	Marionette	INFO	Listening on port 50627
+1635673960865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1635673992621	Marionette	INFO	Stopped listening on port 50627
+1635673992819	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635673998879	geckodriver	INFO	Listening on 127.0.0.1:50737
+1635674001983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50738" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileEncb6l"
+1635674002446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileEncb6l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50738/devtools/browser/d95b2cc9-5b44-403d-a344-af32d155f791
+1635674004535	Marionette	INFO	Listening on port 50745
+1635674004742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635674043470	Marionette	INFO	Stopped listening on port 50745
+1635674043710	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635674066751	geckodriver	INFO	Listening on 127.0.0.1:50906
+1635674069844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50907" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilejECMGU"
+1635674070217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilejECMGU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50907/devtools/browser/73feeada-4afd-4791-afc5-cb873c480fd6
+1635674072340	Marionette	INFO	Listening on port 50914
+1635674072530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635674348309	Marionette	INFO	Stopped listening on port 50914
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635674348338	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635674348342	Marionette	INFO	Stopped listening on port 51029
+1635674348370	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635674348942	geckodriver	INFO	Listening on 127.0.0.1:51220
+1635674352062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51221" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileNzq2ok"
+1635674352427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileNzq2ok\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51221/devtools/browser/239f4fb8-aeac-4ac6-8a96-dde57c5112d8
+1635674354382	Marionette	INFO	Listening on port 51228
+1635674354781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635675617328	Marionette	INFO	Stopped listening on port 51228
+1635675617454	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635675617316	Marionette	INFO	Stopped listening on port 51599
+1635675617421	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 11844, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635675617140	Marionette	INFO	Stopped listening on port 51718
+1635675617387	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635675617248	Marionette	INFO	Stopped listening on port 51841
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1635675617387	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635675617178	Marionette	INFO	Stopped listening on port 51974
+1635675617404	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635675617290	Marionette	INFO	Stopped listening on port 52113
+1635675617420	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1635675617143	Marionette	INFO	Stopped listening on port 52232
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1635675617387	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+cl1635675617391	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635675617106	Marionette	INFO	Stopped listening on port 52522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635675617392	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635675617221	Marionette	INFO	Stopped listening on port 52640
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635675617348	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 19136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635675617168	Marionette	INFO	Stopped listening on port 52778
+1635675617348	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635675617176	Marionette	INFO	Stopped listening on port 52907
+1635675617392	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+a356c180f0
+1635675572503	Marionette	INFO	Listening on port 53030
+1635675572790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 17420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1635675617356	Marionette	INFO	Stopped listening on port 53030
+1635675617452	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1635675617240	Marionette	INFO	Stopped listening on port 53154
+1635675617404	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635675641131	geckodriver	INFO	Listening on 127.0.0.1:53263
+1635675644234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53264" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilehrKMUV"
+1635675644772	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilehrKMUV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53264/devtools/browser/ee36926a-4414-4d90-bd1e-9f058c4b2d11
+1635675646830	Marionette	INFO	Listening on port 53272
+1635675646916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635675681826	Marionette	INFO	Stopped listening on port 53272
+1635675682079	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635675682439	geckodriver	INFO	Listening on 127.0.0.1:53381
+1635675685542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53382" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileLSCJn9"
+1635675685895	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileLSCJn9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53382/devtools/browser/dccd00f4-7af5-437a-b229-25fa475deedb
+1635675687946	Marionette	INFO	Listening on port 53389
+1635675688231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635676338872	Marionette	INFO	Stopped listening on port 53389
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338915	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635676338717	Marionette	INFO	Stopped listening on port 53508
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338792	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635676338256	Marionette	INFO	Stopped listening on port 53634
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338301	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635676338122	Marionette	INFO	Stopped listening on port 53753
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338176	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1635676338693	Marionette	INFO	Stopped listening on port 53870
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338730	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetLis1635676338845	Marionette	INFO	Stopped listening on port 53996
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338914	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635676338662	Marionette	INFO	Stopped listening on port 54116
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338792	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1635676338337	Marionette	INFO	Stopped listening on port 54246
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338362	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+anguageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338459	Marionette	INFO	Stopped listening on port 54363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338641	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635676338194	Marionette	INFO	Stopped listening on port 54600
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635676338551	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635676341955	geckodriver	INFO	Listening on 127.0.0.1:54703
+1635676345071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54704" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilebnIied"
+1635676345468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilebnIied\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54704/devtools/browser/35126a3f-3d35-4c72-b034-cec1d7ff7578
+1635676347685	Marionette	INFO	Listening on port 54709
+1635676347773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635676359867	Marionette	INFO	Stopped listening on port 54709
+1635676359953	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635676361607	geckodriver	INFO	Listening on 127.0.0.1:54815
+1635676364713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54816" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile3glO7H"
+1635676365064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile3glO7H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54816/devtools/browser/59fda020-201e-4bf9-9683-1c91eeeecdd9
+1635676367081	Marionette	INFO	Listening on port 54822
+1635676367429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635676381428	Marionette	INFO	Stopped listening on port 54822
+1635676381606	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635676410132	geckodriver	INFO	Listening on 127.0.0.1:54977
+1635676413215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54978" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilebLQJUb"
+1635676413679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilebLQJUb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54978/devtools/browser/91266f81-0965-4099-a8df-3f1b8d12e66b
+1635676420256	Marionette	INFO	Listening on port 54986
+1635676420687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677804201	Marionette	INFO	Stopped listening on port 54986
+1635677804228	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677802607	Marionette	INFO	Stopped listening on port 55107
+1635677802730	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677802813	Marionette	INFO	Stopped listening on port 55228
+1635677802890	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677802575	Marionette	INFO	Stopped listening on port 55351
+1635677802730	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677802818	Marionette	INFO	Stopped listening on port 55630
+1635677802887	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1635677802643	Marionette	INFO	Stopped listening on port 55762
+1635677802712	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677802926	Marionette	INFO	Stopped listening on port 55882
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635677802963	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677803226	Marionette	INFO	Stopped listening on port 56002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635677803271	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1635677802579	Marionette	INFO	Stopped listening on port 56131
+1635677802698	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+og: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677803205	Marionette	INFO	Stopped listening on port 56256
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635677803256	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677804145	Marionette	INFO	Stopped listening on port 56384
+1635677804181	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677802599	Marionette	INFO	Stopped listening on port 56521
+1635677802698	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+25337db197
+1635677393129	Marionette	INFO	Listening on port 56647
+1635677393649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677802808	Marionette	INFO	Stopped listening on port 56647
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635677802887	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677802642	Marionette	INFO	Stopped listening on port 56796
+1635677802729	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+41e4304025
+1635677586940	Marionette	INFO	Listening on port 56926
+1635677587389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1635677804112	Marionette	INFO	Stopped listening on port 56926
+1635677804182	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://www.ign.es/IGN-SIS-CatalogoTerremotos-portlet/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1632127824000, line 42: TypeError: $(...).IGN_API_CORE is not a function
+1635677636144	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677655287	Marionette	INFO	Stopped listening on port 57048
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635677655627	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635677661072	geckodriver	INFO	Listening on 127.0.0.1:57163
+1635677664159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57164" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile5sKDF8"
+1635677664532	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile5sKDF8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57164/devtools/browser/cceae6f4-9cfe-4da2-a58f-ae305bdb6eaa
+1635677666823	Marionette	INFO	Listening on port 57172
+1635677666872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://www.ign.es/IGN-SIS-CatalogoTerremotos-portlet/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1619101881000, line 42: TypeError: $(...).IGN_API_CORE is not a function
+1635677673252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1635677802838	Marionette	INFO	Stopped listening on port 57172
+1635677802901	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+a function
+JavaScript error: https://www.ign.es/IGN-SIS-CatalogoTerremotos-portlet/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1632127824000, line 42: TypeError: $(...).IGN_API_CORE is not a function
+1635677703105	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677706063	Marionette	INFO	Stopped listening on port 57293
+1635677706300	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635677767068	geckodriver	INFO	Listening on 127.0.0.1:57406
+1635677770156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57407" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilezJnPBL"
+1635677770719	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilezJnPBL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57407/devtools/browser/58246550-dd05-4963-aa8f-accd2a3e2e41
+1635677773312	Marionette	INFO	Listening on port 57414
+1635677773506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635677804119	Marionette	INFO	Stopped listening on port 57414
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635677804185	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635677830346	geckodriver	INFO	Listening on 127.0.0.1:57538
+1635677833455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57539" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileRHDu1n"
+1635677833829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileRHDu1n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57539/devtools/browser/2b2b4c42-dc87-4f51-ab7d-ce4bc8c573ff
+1635677836005	Marionette	INFO	Listening on port 57546
+1635677836154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://www.ign.es/IGN-SIS-CatalogoTerremotos-portlet/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1632127824000, line 42: TypeError: $(...).IGN_API_CORE is not a function
+1635677842461	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635678152913	Marionette	INFO	Stopped listening on port 57546
+1635678152969	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+7b3dfd0b40
+1635677888154	Marionette	INFO	Listening on port 57665
+1635677888238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635678152834	Marionette	INFO	Stopped listening on port 57665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635678152876	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635678152824	Marionette	INFO	Stopped listening on port 57786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635678152864	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is1635678154577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58046" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile7P5ecf"
+1635678154957	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofile7P5ecf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58046/devtools/browser/e4254f5c-7879-426f-bb71-704cccff2133
+1635678157284	Marionette	INFO	Listening on port 58053
+1635678157825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635678709057	Marionette	INFO	Stopped listening on port 58053
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635678709112	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635678709089	Marionette	INFO	Stopped listening on port 58196
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635678709128	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+ertificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635678709050	Marionette	INFO	Stopped listening on port 58308
+1635678709096	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635678713495	geckodriver	INFO	Listening on 127.0.0.1:58470
+1635678716595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58471" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilelixdIK"
+1635678716960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilelixdIK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58471/devtools/browser/d8045a2b-e84a-463a-89ea-db45e88c2be9
+1635678719273	Marionette	INFO	Listening on port 58479
+1635678719311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--remote-debugging-port" "58625" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileaaMo1x"
+1635679009322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileaaMo1x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58625/devtools/browser/e738e84e-bbfc-47ce-a7af-819f789410d0
+1635679011574	Marionette	INFO	Listening on port 58632
+1635679011672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+1635679047897	geckodriver	INFO	Listening on 127.0.0.1:58738
+1635679051003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58739" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilebXMlDu"
+1635679051351	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilebXMlDu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58739/devtools/browser/e67a4711-6f6b-4987-80d1-7689e4253abc
+1635679053360	Marionette	INFO	Listening on port 58746
+1635679053719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+1635679171064	geckodriver	INFO	Listening on 127.0.0.1:58911
+1635679174172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58912" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileBWXsPH"
+1635679174544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileBWXsPH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58912/devtools/browser/0746e35c-a730-4d16-a4cb-92d8c7c05c12
+1635679176981	Marionette	INFO	Listening on port 58919
+1635679177393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
