@@ -1,0 +1,212 @@
+1635762084987	geckodriver	INFO	Listening on 127.0.0.1:49421
+1635762088034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49422" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileQfcywe"
+1635762088648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileQfcywe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49422/devtools/browser/5cbe2830-90b2-49bc-9704-99b306170b0d
+1635762093729	Marionette	INFO	Listening on port 49429
+1635762094102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+!!! error running onStopped callback: TypeError: callback is not a function
+1635763048813	Marionette	INFO	Stopped listening on port 49429
+1635763048847	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+on
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1635762466588	Marionette	INFO	Stopped listening on port 49563
+1635762466625	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635762475733	geckodriver	INFO	Listening on 127.0.0.1:49683
+1635762478778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49684" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilexoLYoT"
+1635762479348	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilexoLYoT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49684/devtools/browser/732525bb-c250-45af-8bd1-4b9a5a9b27b9
+1635762483888	Marionette	INFO	Listening on port 49698
+1635762484397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635762671080	Marionette	INFO	Stopped listening on port 49698
+1635762671122	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635762891078	geckodriver	INFO	Listening on 127.0.0.1:49853
+1635762894164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49854" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileo9g3K1"
+1635762894524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileo9g3K1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49854/devtools/browser/55bdf0c4-fa00-43d0-b5dc-8916dc4c89a7
+1635762896729	Marionette	INFO	Listening on port 49861
+1635762896825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635763048821	Marionette	INFO	Stopped listening on port 49861
+1635763048848	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635772052358	geckodriver	INFO	Listening on 127.0.0.1:50844
+1635772055381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50845" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilekJzrcO"
+1635772056470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofilekJzrcO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50845/devtools/browser/b6bba11b-ff68-42ea-a908-016af812d48f
+1635772059287	Marionette	INFO	Listening on port 50853
+1635772059610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635772187391	Marionette	INFO	Stopped listening on port 50853
+1635772187635	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileBn1tfE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50980/devtools/browser/22413455-fe0d-4b8b-b843-51ac9a7e1829
+1635772188507	Marionette	INFO	Listening on port 50987
+1635772188829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+!!! error running onStopped callback: TypeError: callback is not a function
+1635772461232	Marionette	INFO	Stopped listening on port 50987
+1635772461259	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1635781727017	geckodriver	INFO	Listening on 127.0.0.1:51684
+1635781730088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51685" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileQ87Xp8"
+*** You are running in headless mode.
+1635781731248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileQ87Xp8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51685/devtools/browser/4845eeaa-800f-4de1-9f8a-0fbeaccfc83b
+1635781733162	Marionette	INFO	Listening on port 51690
+1635781733305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+1635781892455	geckodriver	INFO	Listening on 127.0.0.1:51841
+1635781895531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51842" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileQB7pm3"
+*** You are running in headless mode.
+1635781895853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileQB7pm3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51842/devtools/browser/af47ec45-48ea-4cdb-91c7-ca5059e35073
+1635781897192	Marionette	INFO	Listening on port 51847
+1635781897592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.1.1/ol.js, line 71: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+1635781941506	geckodriver	INFO	Listening on 127.0.0.1:51955
+1635781944575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51956" "-no-remote" "-profile" "C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileXW66as"
+1635781945015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Eva\\AppData\\Local\\Temp\\rust_mozprofileXW66as\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51956/devtools/browser/43b81d10-9da5-4c54-b797-ac3ed55d362b
+1635781947294	Marionette	INFO	Listening on port 51961
+1635781947761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ign.es/Urc-theme/js/main.js?browserId=other&languageId=es_ES&b=6203&t=1631613060000, line 1: TypeError: $(...).iCheck is not a function
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
+JavaScript error: https://componentes.ign.es/NucleoVisualizador/IGN_API_Plugin.js, line 1710: ReferenceError: this_API_CORE is not defined
