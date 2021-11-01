@@ -20,7 +20,7 @@ Los archivos se han distribuidos en las siguientes carpetas:
     * WebScrapping.ipynb (Notebook con la extraccion de datos usando selenium)
     * geckodriver.log (Log generado por selenium)
 - csv: 
-    * sismos_.csv (información de los terremotos en España desde principios de año hasta mediados de octubre de 2021). El DOI de Zenodo del dataset es
+    * sismos_15_09_2021_22_09_2021.csv (información de los terremotos en España en los días previos y posteriores a la erupción del volcán de Cumbre Vieja, La Palma). El DOI de Zenodo del dataset es: 
 - pdf: 
     * Memoria_PRA-1.pdf (memoria del trabajo con los apartados solicitados en la especificación) 
     * Condiciones_licenciaUso_IGN.pdf (condiciones de licencia de uso del IGN)
