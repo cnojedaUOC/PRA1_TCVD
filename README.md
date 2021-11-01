@@ -5,7 +5,7 @@ En esta práctica se elabora un caso práctico orientado a aprender a identifica
 
 ### Descripción
 
-El objetivo de esta actividad será la creación de un dataset a partir de los datos contenidos en un sitio web que será extraídos mediante la técnica de _Web Scraping_ y el lenguaje de programación _Python_.
+El objetivo de esta actividad será la creación de un dataset a partir de los datos contenidos en un sitio web que serán extraídos mediante la técnica de _Web Scraping_ y el lenguaje de programación _Python_, interactuando con la página a través de filtros de selección.
 
 ### Miembros del equipo
 
@@ -17,21 +17,17 @@ Carmen Nieves Ojeda Guerra
 Los archivos se han distribuidos en las siguientes carpetas:
 
 - src:   
-    * extraccion_datos_ign.py (archivo con las funciones para la extracción de datos desde la fuente)
-    * main.py (archivo con la función principal que llama a las funciones de la extracción de datos y de la creación del archivo)
+    * WebScrapping.ipynb (Notebook con la extraccion de datos usando selenium)
+    * geckodriver.log (Log generado por selenium)
 - csv: 
-    * dataset_anio.csv (información de los terremotos en España desde principios de año hasta mediados de octubre de 2021). El DOI de Zenodo del dataset es
+    * sismos_15_09_2021_22_09_2021.csv (información de los terremotos en España en los días previos y posteriores a la erupción del volcán de Cumbre Vieja, La Palma). El DOI de Zenodo del dataset es: 
 - pdf: 
     * Memoria_PRA-1.pdf (memoria del trabajo con los apartados solicitados en la especificación) 
-- selenium:
-    * src: 
-        * WebScrapping.ipynb (Notebook con la extraccion de datos usando selenium)
-        * geckodriver.log (Log generado por selenium)
-    * csv: 
-        * sismos2021.csv (información de los terremotos en España desde principios de año hasta mediados de octubre de 2021)
+    * Condiciones_licenciaUso_IGN.pdf (condiciones de licencia de uso del IGN)
 
 ### Recursos
 
 [1] L. Subirats, M. Calvo, “Web Scraping”, Editorial UOC, 2019.  
 [2] R. Lawson, “Web Scraping with Python”, Packt Publishing Ltd. Chapter 2. Scraping the Data, 2015.  
-[3] Alber, “Web scraping con requests y BeautifuSoup en Python”, 2020. [En línea]. Disponible en: https://cosasdedevs.com/posts/web-scraping-con-requests-y-beautifulsoup-en-python/. [Accedido: 13-oct-2021]
+[3] V. Alcántara, “Cómo codificar un scraping Bot con Selenium y Python”, 2021. [En línea]. Disponible en: https://www.freecodecamp.org/espanol/news/como-codificar-un-scraping-bot-con-selenium-y-python/. [Accedido: 01-nov-2021]  
+[4] Sitio web de Selenium, "The Selenium Browser Automation Project", 2021. [En línea]. Disponible en: https://www.selenium.dev/documentation/. [Accedido: 01-nov-2021]
