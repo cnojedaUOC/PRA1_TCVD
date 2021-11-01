@@ -30,3 +30,4 @@ Los archivos se han distribuidos en las siguientes carpetas:
 [1] L. Subirats, M. Calvo, “Web Scraping”, Editorial UOC, 2019.  
 [2] R. Lawson, “Web Scraping with Python”, Packt Publishing Ltd. Chapter 2. Scraping the Data, 2015.  
 [3] V. Alcántara, “Cómo codificar un scraping Bot con Selenium y Python”, 2021. [En línea]. Disponible en: https://www.freecodecamp.org/espanol/news/como-codificar-un-scraping-bot-con-selenium-y-python/. [Accedido: 01-nov-2021]
+[4] Sitio web de Selenium, "The Selenium Browser Automation Project", 2021. [En línea]. Disponible en: https://www.selenium.dev/documentation/. [Accedido: 01-nov-2021]
