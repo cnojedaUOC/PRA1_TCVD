@@ -17,7 +17,7 @@ Carmen Nieves Ojeda Guerra
 Los archivos se han distribuidos en las siguientes carpetas:
 
 - src:   
-    * WebScraping.ipynb (Notebook con la extraccion de datos usando selenium)
+    * WebScraping.ipynb (Notebook con la extracción de datos usando selenium)
     * geckodriver.log (Log generado por selenium)
 - csv: 
     * sismos_15_09_2021_22_09_2021.csv (información de los terremotos en España en los días previos y posteriores a la erupción del volcán de Cumbre Vieja, La Palma). El DOI de Zenodo del dataset es: 10.5281/zenodo.5643138
